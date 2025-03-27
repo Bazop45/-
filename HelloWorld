@@ -52,15 +52,13 @@ start
 finish
 
 start
-    log string
-    log string
-    log string
-    log string
-    log string
-    log string
-    log string
-    log string
-    log string
+    log string "1 × 1 = 1"
+    log string "1 × 2 = 2"
+    log string "1 × 3 = 3"
+    log string "1 × 4 = 4"
+    log string "1 × 5 = 5"
+    log string "1 × 6 = 6"
+    log string "1 × 7 = 7"
+    log string "1 × 8 = 8"
+    log string "1 × 9 = 9"
 finish
-
-
